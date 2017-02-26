@@ -1,0 +1,86 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/application.css	/^ * Any CSS and SCSS file within this directory, lib\/assets\/stylesheets, vendor\/assets\/stylesheets,$/;"	function	line:5
+body	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^body {$/;"	function	line:1
+p, ol, ul, td	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^p, ol, ul, td {$/;"	function	line:10
+pre	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^pre {$/;"	function	line:17
+a	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^a {$/;"	function	line:23
+&:visited	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^  &:visited {$/;"	function	line:26
+&:hover	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^  &:hover {$/;"	function	line:30
+th	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^th {$/;"	function	line:36
+td	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^td {$/;"	function	line:40
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^div {$/;"	function	line:46
+&.field, &.actions	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^  &.field, &.actions {$/;"	function	line:47
+#notice	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^#notice {$/;"	function	line:52
+.field_with_errors	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^.field_with_errors {$/;"	function	line:56
+#error_explanation	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^#error_explanation {$/;"	function	line:62
+h2	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^  h2 {$/;"	function	line:70
+ul li	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^  ul li {$/;"	function	line:81
+label	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/assets/stylesheets/scaffolds.scss	/^label {$/;"	function	line:87
+ApplicationCable	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/channels/application_cable/channel.rb	/^module ApplicationCable$/;"	module	line:1
+Channel	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/channels/application_cable/channel.rb	/^  class Channel < ActionCable::Channel::Base$/;"	class	line:2	class:ApplicationCable
+ApplicationCable	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/channels/application_cable/connection.rb	/^module ApplicationCable$/;"	module	line:1
+Connection	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/channels/application_cable/connection.rb	/^  class Connection < ActionCable::Connection::Base$/;"	class	line:2	class:ApplicationCable
+ApplicationController	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	class	line:1
+IdeasController	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^class IdeasController < ApplicationController$/;"	class	line:1
+index	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def index$/;"	method	line:6	class:IdeasController
+show	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def show$/;"	method	line:12	class:IdeasController
+new	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def new$/;"	method	line:16	class:IdeasController
+edit	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def edit$/;"	method	line:21	class:IdeasController
+create	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def create$/;"	method	line:26	class:IdeasController
+update	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def update$/;"	method	line:42	class:IdeasController
+destroy	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^  def destroy$/;"	method	line:56	class:IdeasController
+set_idea	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^    def set_idea$/;"	method	line:66	class:IdeasController
+idea_params	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/controllers/ideas_controller.rb	/^    def idea_params$/;"	method	line:71	class:IdeasController
+ApplicationHelper	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	module	line:1
+IdeasHelper	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/helpers/ideas_helper.rb	/^module IdeasHelper$/;"	module	line:1
+ApplicationJob	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/jobs/application_job.rb	/^class ApplicationJob < ActiveJob::Base$/;"	class	line:1
+ApplicationMailer	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/mailers/application_mailer.rb	/^class ApplicationMailer < ActionMailer::Base$/;"	class	line:1
+ApplicationRecord	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/models/application_record.rb	/^class ApplicationRecord < ActiveRecord::Base$/;"	class	line:1
+Idea	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/app/models/idea.rb	/^class Idea < ApplicationRecord$/;"	class	line:1
+system!	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/bin/setup	/^def system!(*args)$/;"	method	line:9
+system!	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/bin/update	/^def system!(*args)$/;"	method	line:9
+Railsgirls	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/config/application.rb	/^module Railsgirls$/;"	module	line:9
+Application	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/config/application.rb	/^  class Application < Rails::Application$/;"	class	line:10	class:Railsgirls
+CreateIdeas	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/db/migrate/20170226025036_create_ideas.rb	/^class CreateIdeas < ActiveRecord::Migration[5.0]$/;"	class	line:1
+change	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/db/migrate/20170226025036_create_ideas.rb	/^  def change$/;"	method	line:2	class:CreateIdeas
+html	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^<html>$/;"	function	line:2
+head	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^<head>$/;"	function	line:3
+title	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^  <title>The page you were looking for doesn't exist (404)<\/title>$/;"	function	line:4
+meta	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^  <style>$/;"	function	line:6
+body	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^<body>$/;"	function	line:57
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^    <div>$/;"	function	line:60
+h	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^      <h1>The page you were looking for doesn't exist.<\/h1>$/;"	function	line:61
+p	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^      <p>You may have mistyped the address or the page may have moved.<\/p>$/;"	function	line:62
+p	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/404.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
+html	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^<html>$/;"	function	line:2
+head	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^<head>$/;"	function	line:3
+title	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^  <title>The change you wanted was rejected (422)<\/title>$/;"	function	line:4
+meta	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^  <style>$/;"	function	line:6
+body	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^<body>$/;"	function	line:57
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^    <div>$/;"	function	line:60
+h	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^      <h1>The change you wanted was rejected.<\/h1>$/;"	function	line:61
+p	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^      <p>Maybe you tried to change something you didn't have access to.<\/p>$/;"	function	line:62
+p	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/422.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
+html	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^<html>$/;"	function	line:2
+head	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^<head>$/;"	function	line:3
+title	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^  <title>We're sorry, but something went wrong (500)<\/title>$/;"	function	line:4
+meta	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^  <style>$/;"	function	line:6
+body	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^<body>$/;"	function	line:57
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^    <div>$/;"	function	line:60
+h	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^      <h1>We're sorry, but something went wrong.<\/h1>$/;"	function	line:61
+p	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/public/500.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:63
+README	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/README.md	/^# README$/;"	function	line:1
+IdeasControllerTest	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/test/controllers/ideas_controller_test.rb	/^class IdeasControllerTest < ActionDispatch::IntegrationTest$/;"	class	line:3
+IdeaTest	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/test/models/idea_test.rb	/^class IdeaTest < ActiveSupport::TestCase$/;"	class	line:3
+ActiveSupport	/Users/yamamotokazuhisa/ghq/github.com/kazuhisa/railsgirls/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	class	line:5
