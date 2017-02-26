@@ -1,8 +1,8 @@
 CarrierWave.configure do |config|
-  config.dropbox_app_key = Settings.dropbox.app_key
-  config.dropbox_app_secret = Settings.dropbox.app_secret
-  config.dropbox_access_token = Settings.dropbox.access_token
-  config.dropbox_access_token_secret = Settings.dropbox.access_token_secret
-  config.dropbox_user_id = Settings.dropbox.user_id
+  config.dropbox_app_key = ENV['APP_KEY']
+  config.dropbox_app_secret = ENV['APP_SECRET']
+  config.dropbox_access_token = ENV['ACCESS_TOKEN']
+  config.dropbox_access_token_secret = ENV['ACCESS_TOKEN_SECRET']
+  config.dropbox_user_id = ENV['USER_ID']
   config.dropbox_access_type = :auto
 end

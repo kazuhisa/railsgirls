@@ -23,3 +23,5 @@
 public/uploads
 tmp
 logs
+
+.env
